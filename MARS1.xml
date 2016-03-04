@@ -23,7 +23,4 @@
       <block type="movement_stop" id="75"></block>
     </next>
   </block>
-  <block type="math_number" id="58" x="-69" y="285">
-    <field name="NUM">0</field>
-  </block>
 </xml>
